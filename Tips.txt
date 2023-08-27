@@ -1,0 +1,3 @@
+Tips for Excel:
+
+ctrl+shift+ down arrow = select all the element in the column
