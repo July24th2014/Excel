@@ -1,0 +1,4 @@
+1. Remove Duplicates
+2. Change Column Names: Create a seperate column to clean the data 
+3. Use Filter: filter out the unusual to clean the dataset
+4. Use Trim: remove the space 
